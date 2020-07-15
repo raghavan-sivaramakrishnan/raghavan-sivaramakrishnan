@@ -10,4 +10,4 @@
 - 💬 Ask me about algorithms, datastructures, system design and also financial & budget management
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/sivaramakrishnan-raghavan/), Gmail(raghavan.sivaramakrishnan@gmail.com)
 - 😄 Pronouns: Siva, Shiva
-- ⚡ Fun fact: On a random day, I can work 9 to 7, and then sing and dance to random movie songs and do some algorithmic problems and read about some new business ideas and play with kids and also listen to some spiritual discourse and still have energy to watch a movie.
+- ⚡ Fun fact: On a random day, I can work 9 to 5, and then sing and dance to random movie songs and do some algorithmic problems and read about some new business ideas and play with kids and also listen to some spiritual discourse and still have energy to watch a movie.
