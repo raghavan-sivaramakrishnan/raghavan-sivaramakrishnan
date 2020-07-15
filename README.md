@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my Github profile. I am Sivaramakrishnan Raghavan, based out of silicon valley.
 
 <!--
-**raghavan-sivaramakrishnan/raghavan-sivaramakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**raghavan-sivaramakrishnan/raghavan-sivaramakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on a product to prevent financial crime through behavioral analytics and machine learning
 - 🌱 I’m currently learning AWS and also Bhagavad Gita
